@@ -109,5 +109,5 @@ This project is licensed under the [MIT License](LICENSE). You are free to use, 
 
 ## 🌟 About Me
 
-Hi there! I'm **Dineshwar Chinnaraji**. I’m an IT professional and passionate Data Science And analytics to working with data and extract the insightfull data from the raw data to provide business decisions.
+Hi there! I'm **Dineshwar Chinnaraji**. I’m an IT professional and passionate **Data Science And Data Analytics** to working with data and extract the insightfull data from the raw data to provide business decisions.
 
